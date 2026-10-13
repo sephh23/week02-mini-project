@@ -54,3 +54,7 @@ bash test.sh
 - One conversion per run
 - Only C and F, no Kelvin
 - The unit has to be uppercase
+
+## AI-use disclosure
+
+Used Claude to help structure the repo and check the workflow; I wrote and tested the code myself.
